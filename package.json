@@ -1,0 +1,22 @@
+{
+  "name": "qvik-react-native",
+  "version": "0.0.2",
+  "description": "Qvik react native generator",
+  "main": "./lib/index.js",
+  "preferGlobal": true,
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thienbao92/qvik-react-generator.git"
+  },
+  "author": "Bao Vu",
+  "license": "ISC",
+  "bin": {
+    "qvik-react-native": "./bin/qvik-react-native.js"
+  },
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
