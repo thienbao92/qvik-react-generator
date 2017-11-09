@@ -1,5 +1,5 @@
 {
-  "name": "qvik-react-native",
+  "name": "qvik-react-generator",
   "version": "0.0.2",
   "description": "Qvik react native generator",
   "main": "./lib/index.js",
@@ -14,7 +14,7 @@
   "author": "Bao Vu",
   "license": "ISC",
   "bin": {
-    "qvik-react-native": "./bin/qvik-react-native.js"
+    "qvik-react-native-generator": "./bin/qvik-react-native.js"
   },
   "dependencies": {
     "prompt": "^1.0.0"
